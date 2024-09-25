@@ -1,2 +1,2 @@
 # CS360
-Contains links to my labs on my website
+Labs from CS360 at University of Idaho
